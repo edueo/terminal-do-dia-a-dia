@@ -11,6 +11,8 @@ Ter o terminal como única ferramenta de trabalho e registrar aqui os aprendizad
 - tmux
 - fish (oh-my-fish)
 - git
+- httpie
+- jq
 
 
 
