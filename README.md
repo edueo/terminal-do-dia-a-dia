@@ -1,6 +1,5 @@
 # Terminal
-
-Idéia do projeto é ter o terminal como única ferramenta de trabalho e registrar aqui os aprendizados.
+Ter o terminal como única ferramenta de trabalho e registrar aqui os aprendizados dessa jornada
 
 ## Restrições
 
