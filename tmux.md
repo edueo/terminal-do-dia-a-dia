@@ -14,3 +14,7 @@ C-b :
 new -s <nome-da-sessao>
 ```
 
+## Matar todas as sessões
+```
+tmux kill-server
+```
